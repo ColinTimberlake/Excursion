@@ -14,6 +14,7 @@ p {
     font-family: Verdana;
     color: aquamarine;
     font-size: 16px;
+    text-decoration: underline;
 }
 
 .guide {
@@ -26,12 +27,6 @@ p {
     font-family: Verdana;
     font-size: 21px;
     color: gray !important;
-}
-
-footer i {
-    font-family: Verdana;
-    height: 200px;
-    width: 200px;    
 }
 
 footer h3 {
